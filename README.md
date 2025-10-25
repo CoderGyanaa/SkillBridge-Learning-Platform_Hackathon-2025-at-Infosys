@@ -101,7 +101,7 @@ Server is running on port 5000
 
 ### 💻 Developed & Designed by
 
-👨‍💻 Debadatta Rout
+👨‍💻 Gyana Ranjan Sahoo And My Teammate Debadatta Rout
 
 
 
